@@ -204,19 +204,6 @@ document-ai-assistant/
 | **Vektör DB** | ChromaDB | Local, lightweight vektör veritabanı |
 | **LLM** | OpenAI API | GPT-4/GPT-3.5 |
 
-## 🎓 Video Serisi
-
-Bu proje, YouTube'da yayınlanan "RAG Sistemleri ile Kurumsal Yapay Zeka Asistanı" video serisi ile birlikte geliştirilmiştir.
-
-Seri boyunca:
-1. ✅ Proje kurulumu ve temel mimari
-2. ✅ Belge yükleme ve metin işleme
-3. ✅ Embedding ve vektör veritabanı
-4. ✅ Retrieval sistemi
-5. ✅ LLM entegrasyonu
-6. ✅ Kaynak gösterme
-7. ✅ Test sistemi
-
 ## 📝 Lisans
 
 MIT License

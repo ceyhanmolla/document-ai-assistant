@@ -1,0 +1,65 @@
+# Environment variables - API KEYS
+.env
+.env.local
+.env.production
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+env/
+.pyenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# ChromaDB / Vector DB
+data/chroma_db/
+*.sqlite
+*.db
+
+# Uploaded files
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Streamlit
+.streamlit/
+secrets.toml
+
+# Model caches
+models/
+sentence_transformers_cache/
+huggingface_cache/
